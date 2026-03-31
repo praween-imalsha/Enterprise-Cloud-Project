@@ -1,0 +1,9 @@
+[submodule "Enterprise-Cloud-Project/service-registry"]
+	path = Enterprise-Cloud-Project/service-registry
+	url = https://github.com/praween-imalsha/ECP-service-registry.git
+[submodule "Enterprise-Cloud-Project/config-server"]
+	path = Enterprise-Cloud-Project/config-server
+	url = https://github.com/praween-imalsha/ECP-config-server.git
+[submodule "Enterprise-Cloud-Project/api-gateway"]
+	path = Enterprise-Cloud-Project/api-gateway
+	url = https://github.com/praween-imalsha/ECP-api-gateway.git
